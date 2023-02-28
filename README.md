@@ -1,12 +1,51 @@
 # Freecodecamp
 
+Here i will try to complete all tasks. <br>
+Thank you Freecodecamp <br>
 
-In this Responsive Web Design Certification, you'll learn the languages that developers use to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.
+1. Responsive Web Design Certification  <br>
+<hr>
+Learn HTML by Building a Cat Photo App <br>
+Learn Basic CSS by Building a Cafe Menu <br>
+Learn CSS Colors by Building a Set of Colored Markers <br>
+Learn HTML Forms by Building a Registration Form <br>
+Learn the CSS Box Model by Building a Rothko Painting <br>
+Learn CSS Flexbox by Building a Photo Gallery <br>
+Learn Typography by Building a Nutrition Label <br>
+Learn Accessibility by Building a Quiz <br>
+Learn More About CSS Pseudo Selectors By Building A Balance Sheet <br>
+Learn Intermediate CSS by Building a Picasso Painting <br>
+Learn Responsive Web Design by Building a Piano <br>
+Learn CSS Variables by Building a City Skyline <br>
+Learn CSS Grid by Building a Magazine <br>
+Learn CSS Transforms by Building a Penguin <br>
+Learn CSS Animations by Building a Ferris Wheel <br>
 
-First, you'll build a cat photo app to learn the basics of HTML and CSS. Later, you'll learn modern techniques like CSS variables by building a penguin, and best practices for accessibility by building a web form.
+<hr>
+Projects: Survey Form, Tribute Page, Technical Documentation Page, Product Landing Page, Personal Portfolio Webpage
+<hr>
 
-Finally, you'll learn how to make webpages that respond to different screen sizes by building a Twitter card with Flexbox, and a complex blog layout with CSS Grid.
+2. JavaScript Algorithms and Data Structures Certification
+<hr>
 
+Basic JavaScript <br>
+ES6 <br>
+Regular Expressions  <br>
+Debugging <br>
+Basic Data Structures <br>
+Basic Algorithm Scripting <br>
+Object-Oriented Programming <br>
+Functional Programming <br>
+Intermediate Algorithm Scripting <br>
+<hr>
+Projects: Palindrome Checker, Roman Numeral Converter, Caesar's Cipher, Telephone Number Validator, Cash Register
+<hr>
 
-# Thank you
-# sane ):-
+3. Front End Libraries Certification
+<hr>
+Bootstrap  <br>
+jQuery <br>
+Sass <br>
+React <br>
+Redux <br>
+React and Redux <br>
